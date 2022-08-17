@@ -3,60 +3,60 @@
 The category of the traffic scenario is drived from Driving License Book using in Sweden, writen by STR. There are 58 categories of scenarios are listed. This work is used to assit improving driving license education, however, can aslo be used for a high level overview of full automated vehicle test scenarios. 
 
 - Road Markers​ (get from map and computer vision)
- - Temp road markers 001
- - Worn out (faded) road markers 002
+    - Temp road markers 001
+    - Worn out (faded) road markers 002
 - Traffic Signs​ 
- - STOP 003
- - Special speed limit 004
- - Very dirty or old 005
- - Other special signs 006
+    - STOP 003
+    - Special speed limit 004
+    - Very dirty or old 005
+    - Other special signs 006
 - Traffic light 007
 - Sufficient low speed:​
- - Densely build-up area​ 008
- - Reduced visibility ​ 009
- - Slippery road surface 010
- - Darkness 011
- - Proximity to unprotected road users (Pedestrian crossing) 012
- - Cross traffic​ 013
- - Sharp bend​ 014The 
- - Brows of hills 015
- - Risk of dazzle​ 016
- - Narrow road​ 017
- - Passing Tram, bus, school bus​ 018
- - Children​, elderly people, people with disabilities  019
- - Passing livestock ( horse, cow, ...) 020
- - Road works​ 021
- - Accidents​ 022
- - Passing dirty road with the risk of splashing other road users 023
+    - Densely build-up area​ 008
+    - Reduced visibility ​ 009
+    - Slippery road surface 010
+    - Darkness 011
+    - Proximity to unprotected road users (Pedestrian crossing) 012
+    - Cross traffic​ 013
+    - Sharp bend​ 014
+    - Brows of hills 015
+    - Risk of dazzle​ 016
+    - Narrow road​ 017
+    - Passing Tram, bus, school bus​ 018
+    - Children​, elderly people, people with disabilities  019
+    - Passing livestock ( horse, cow, ...) 020
+    - Road works​ 021
+    - Accidents​ 022
+    - Passing dirty road with the risk of splashing other road users 023
 - Positioning​ when turning at a junction
- - Turn left​ 024a
- - Turn right​ 024b
- - Narrow road​ 025 
+    - Turn left​ 024a
+    - Turn right​ 024b
+    - Narrow road​ 025 
 - Positioning when driving in lane 026
 - Give way​
- - Right hand rule​ 027
- - Major road junction​ 028
- - The exit rule 029
+    - Right hand rule​ 027
+    - Major road junction​ 028
+    - The exit rule 029
 - Making way for emergency vehicle​ 030
 - No obstructing or cutting through the processions( military column, a group of children under supervision, a funeral procession) 031
 - Roundabout​
- - Turn right 032
- - Go straight 033
- - Turn left 034
- - U turn 035
- - Others 036
+    - Turn right 032
+    - Go straight 033
+    - Turn left 034
+    - U turn 035
+    - Others 036
 - One way traffic​ 037
 - Cyclist and moped​
- - Passing 038
- - Cyclist turning left 039
+    - Passing 038
+    - Cyclist turning left 039
 - Police signals 040
 - Bus lane​ 042
 - Move off from the kerb 043
 - Make a U turn 044
 - Changing lanes​ 045
 - Overtaking​
- - Overtaking maintenance machines 046
- - Overtaking other vehicles 047
+    - Overtaking maintenance machines 046
+    - Overtaking other vehicles 047
 - Being overtaken (cut-in) 048
 - Pass on the right 049
 - Country road emerge on to a major road​ 050
@@ -66,4 +66,4 @@ The category of the traffic scenario is drived from Driving License Book using i
 - Railway level crossing​ 054
 - Entry/exit to motor way​ 055
 - Eco-drive
- - Speed bump 056
+    - Speed bump 056
